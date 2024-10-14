@@ -13,8 +13,10 @@
 **<h3 align="left">Contactame:</h3>** 
 <p align="left"><a href="https://github.com/Dark869" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Dark_869" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">💻 Administrador de sistemas y desarrollador Full-Stack Jr.
-Experiencia en desarrollo web, administración e implementación de servicios y sistemas.</h3>**
+ **<h3 align="left">💻 Administrador de sistemas Jr.
+Experiencia en administración e implementación de servicios y sistemas.</h3>**
+
+**<h4 align="left">📕 Actualmente aprendiendo desarrollo web Full-Stack</h4>**
 
  **<h3 align="left">Skills</h3>**
 
