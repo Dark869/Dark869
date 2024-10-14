@@ -10,7 +10,7 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
+**<h3 align="left">Contactame:</h3>** 
 <p align="left"><a href="https://github.com/Dark869" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Dark_869" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">💻 Administrador de sistemas y desarrollador Full-Stack Jr.
@@ -25,9 +25,5 @@ Experiencia en desarrollo web, administración e implementación de servicios y 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dark869&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&border_radius=15&locale=es" alt="GitHub top-langs Card" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=Dark869&theme=react&hide_border=false&border_radius=15&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=es&card_height=200" alt="GitHub streak Card" />
-</p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark869&repo=To-doList_Web&theme=react&cache_seconds=1800&border_radius=15&show_owner=false&locale=es" alt="GitHub repo-card Card" />
 </p>
 
